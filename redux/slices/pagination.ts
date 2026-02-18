@@ -5,9 +5,9 @@ const PaginationSlice = createSlice({
     initialState: {
         response: [],
         loading: true,
-        limit: 8,
+        limit: 15,
         initialCount: 0,
-        count: 8 
+        count: 15  
     },
     reducers: {
         setResponse: (state,action) => {

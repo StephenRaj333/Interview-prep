@@ -4,7 +4,8 @@ import AuthSlice from "./slices/auth";
 import CounterSlice  from "./slices/counter";  
 import TodoSlice from "./slices/todo";
 import ValidateSlice from "./slices/validate";
-import PaginationSlice from "./slices/pagination"; 
+import PaginationSlice from "./slices/pagination";
+import SearchFilterSlice from "./slices/searchFilter";
 
 export const store = configureStore({  
     reducer: {
@@ -12,7 +13,8 @@ export const store = configureStore({
         counter: CounterSlice,
         todo: TodoSlice,
         validate: ValidateSlice,
-        pagination: PaginationSlice 
+        pagination: PaginationSlice,
+        seachfilter: SearchFilterSlice 
     }   
 })      
 

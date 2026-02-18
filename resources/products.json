@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "aarav@example.com",
+    "role": "Admin",
+    "category": "IT",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Vihaan Patel",
+    "email": "vihaan@example.com",
+    "role": "User",
+    "category": "Finance",
+    "status": "Inactive"
+  },
+  {
+    "id": 3,
+    "name": "Aditya Verma",
+    "email": "aditya@example.com",
+    "role": "Manager",
+    "category": "HR",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "name": "Rohan Mehta",
+    "email": "rohan@example.com",
+    "role": "User",
+    "category": "IT",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "Kunal Singh",
+    "email": "kunal@example.com",
+    "role": "Admin",
+    "category": "Operations",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "name": "Neha Kapoor",
+    "email": "neha@example.com",
+    "role": "User",
+    "category": "HR",
+    "status": "Inactive"
+  },
+  {
+    "id": 7,
+    "name": "Pooja Malhotra",
+    "email": "pooja@example.com",
+    "role": "Manager",
+    "category": "Finance",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "name": "Rahul Jain",
+    "email": "rahul@example.com",
+    "role": "User",
+    "category": "IT",
+    "status": "Active"
+  },
+  {
+    "id": 9,
+    "name": "Ankit Gupta",
+    "email": "ankit@example.com",
+    "role": "Admin",
+    "category": "Finance",
+    "status": "Inactive"
+  },
+  {
+    "id": 10,
+    "name": "Sneha Iyer",
+    "email": "sneha@example.com",
+    "role": "User",
+    "category": "Operations",
+    "status": "Active"
+  },
+  {
+    "id": 11,
+    "name": "Vikas Choudhary",
+    "email": "vikas@example.com",
+    "role": "Manager",
+    "category": "IT",
+    "status": "Active"
+  },
+  {
+    "id": 12,
+    "name": "Simran Kaur",
+    "email": "simran@example.com",
+    "role": "User",
+    "category": "HR",
+    "status": "Inactive"
+  },
+  {
+    "id": 13,
+    "name": "Manish Rawat",
+    "email": "manish@example.com",
+    "role": "Admin",
+    "category": "Operations",
+    "status": "Active"
+  },
+  {
+    "id": 14,
+    "name": "Nikhil Bansal",
+    "email": "nikhil@example.com",
+    "role": "User",
+    "category": "Finance",
+    "status": "Active"
+  },
+  {
+    "id": 15,
+    "name": "Aditi Joshi",
+    "email": "aditi@example.com",
+    "role": "Manager",
+    "category": "HR",
+    "status": "Active"
+  },
+  {
+    "id": 16,
+    "name": "Harsh Agrawal",
+    "email": "harsh@example.com",
+    "role": "User",
+    "category": "IT",
+    "status": "Inactive"
+  },
+  {
+    "id": 17,
+    "name": "Ritika Saxena",
+    "email": "ritika@example.com",
+    "role": "Admin",
+    "category": "Finance",
+    "status": "Active"
+  },
+  {
+    "id": 18,
+    "name": "Mohit Yadav",
+    "email": "mohit@example.com",
+    "role": "User",
+    "category": "Operations",
+    "status": "Active"
+  },
+  {
+    "id": 19,
+    "name": "Shreya Nair",
+    "email": "shreya@example.com",
+    "role": "Manager",
+    "category": "IT",
+    "status": "Inactive"
+  },
+  {
+    "id": 20,
+    "name": "Amit Mishra",
+    "email": "amit@example.com",
+    "role": "User",
+    "category": "Finance",
+    "status": "Active"
+  },
+  {
+    "id": 21,
+    "name": "Priya Kulkarni",
+    "email": "priya@example.com",
+    "role": "Admin",
+    "category": "HR",
+    "status": "Active"
+  },
+  {
+    "id": 22,
+    "name": "Sahil Khan",
+    "email": "sahil@example.com",
+    "role": "User",
+    "category": "IT",
+    "status": "Inactive"
+  },
+  {
+    "id": 23,
+    "name": "Mehul Doshi",
+    "email": "mehul@example.com",
+    "role": "Manager",
+    "category": "Operations",
+    "status": "Active"
+  },
+  {
+    "id": 24,
+    "name": "Riya Arora",
+    "email": "riya@example.com",
+    "role": "User",
+    "category": "HR",
+    "status": "Active"
+  },
+  {
+    "id": 25,
+    "name": "Deepak Soni",
+    "email": "deepak@example.com",
+    "role": "Admin",
+    "category": "Finance",
+    "status": "Inactive"
+  },
+  {
+    "id": 26,
+    "name": "Tanvi Deshpande",
+    "email": "tanvi@example.com",
+    "role": "User",
+    "category": "Operations",
+    "status": "Active"
+  },
+  {
+    "id": 27,
+    "name": "Arjun Mallick",
+    "email": "arjun@example.com",
+    "role": "Manager",
+    "category": "IT",
+    "status": "Active"
+  },
+  {
+    "id": 28,
+    "name": "Kavya Menon",
+    "email": "kavya@example.com",
+    "role": "User",
+    "category": "Finance",
+    "status": "Inactive"
+  },
+  {
+    "id": 29,
+    "name": "Suresh Pillai",
+    "email": "suresh@example.com",
+    "role": "Admin",
+    "category": "HR",
+    "status": "Active"
+  },
+  {
+    "id": 30,
+    "name": "Ishita Roy",
+    "email": "ishita@example.com",
+    "role": "User",
+    "category": "IT",
+    "status": "Active"
+  }
+]
