@@ -17,7 +17,7 @@ const Providers = ({children}:{children:React.ReactNode}) => {
                 {children} 
             </div>
         {/* // </ThemeContext.Provider> */}
-        // </Provider> 
+         </Provider> 
     )   
 }
 

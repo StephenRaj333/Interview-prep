@@ -6,6 +6,7 @@ import TodoSlice from "./slices/todo";
 import ValidateSlice from "./slices/validate";
 import PaginationSlice from "./slices/pagination";
 import SearchFilterSlice from "./slices/searchFilter";
+import crudSlice from './slices/crud'; 
 
 export const store = configureStore({  
     reducer: {
@@ -14,7 +15,8 @@ export const store = configureStore({
         todo: TodoSlice,
         validate: ValidateSlice,
         pagination: PaginationSlice,
-        seachfilter: SearchFilterSlice 
+        seachfilter: SearchFilterSlice,
+        crud:  crudSlice 
     }   
 })      
 
